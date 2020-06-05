@@ -6,3 +6,4 @@ Useful articles on topics related to software development.
 2. [Unicode & Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 3. [TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 4. [Copyright Notice](https://news.ycombinator.com/item?id=23202586)
+5. [Docker Principles](https://fzakaria.com/2020/05/31/containers-from-first-principles.html)
